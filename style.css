@@ -1,0 +1,24 @@
+h1{
+    color:lightsalmon;
+}
+h2{color: aqua;
+}
+p{
+    color: purple;
+}
+h3{
+    color: darkgoldenrod;
+}
+h4{
+    color: blue;
+}
+#encabezado-seis{
+    color: orangered;
+}
+.text-danger{
+    color: red;
+}
+.titulo-1{color: green;}
+body{
+    background-color:lightblue;
+}
